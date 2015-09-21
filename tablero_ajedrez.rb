@@ -1,4 +1,4 @@
-tablero_ajedrez = [%w(torre1_N caballo1_N alfil1_N reina_N alfil2_N rey_N caballo2_N torre2_N), 
+tablero_ajedrez = [%w(torre1_N caballo1_N alfil1_N reina_N rey_N alfil2_N caballo2_N torre2_N), 
   %w(peon1_N peon2_N peon3_N peon4_N peon5_N peon6_N peon7_N peon8_N), 
   %w(nada nada nada nada nada nada nada nada), 
   %w(nada nada nada nada nada nada nada nada), 
